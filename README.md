@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img src="https://user-images.githubusercontent.com/114622658/193428197-6afa5891-87b5-419b-9640-2cc382861685.png" width="14"/><b> Rio de Janeiro, Brazil</b>.
 
 <h3>Things I code with</h3>
