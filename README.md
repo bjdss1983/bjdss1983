@@ -11,3 +11,4 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <h3>Welcome to the wonderful city <img src="https://user-images.githubusercontent.com/114622658/193428197-6afa5891-87b5-419b-9640-2cc382861685.png" width="14"/> Rio de Janeiro!</h3>
 
 <h3>Where to find me</h3>
+<a href="https://github.com/brunosslvr" target="_blank"><img alt="Github" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
