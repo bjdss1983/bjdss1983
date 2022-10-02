@@ -13,7 +13,7 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "Bootstrap"  src = "https://img.shields.io/badge/Bootstrap-563D7C?=flat-square&logo=bootstrap&logoColor=white" height="" width=""/>
 <img alt = "NodeJS"     src = "https://img.shields.io/badge/Node.js-43853D?=flat-square&logo=node.js&logoColor=white" height="" width=""/>
 <img alt = "VueJS"      src = "https://img.shields.io/badge/Vue.js-35495E?=flat-square&logo=vue.js&logoColor=4FC08D" height="" width=""/>
-<img alt = "TS"         src = "https://img.shields.io/badge/Node.js-43853D?=flat-square&logo=node.js&logoColor=white" height="" width=""/>
+<img alt = "TS"         src = "https://img.shields.io/badge/TypeScript-007ACC?=flat-square&logo=typescript&logoColor=white" height="" width=""/>
 <img alt = "ReactJS"    src = "https://img.shields.io/badge/React-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
 <img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
 <img alt = "PHP"        src = "https://img.shields.io/badge/PHP-777BB4?=flat-square&logo=php&logoColor=white" height="" width=""/>
