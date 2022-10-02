@@ -17,7 +17,6 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "VueJS"      src = "https://img.shields.io/badge/Vue.js-35495E?=flat-square&logo=vue.js&logoColor=4FC08D" height="" width=""/>
 <img alt = "TS"         src = "https://img.shields.io/badge/TypeScript-007ACC?=flat-square&logo=typescript&logoColor=white" height="" width=""/>
 <img alt = "ReactJS"    src = "https://img.shields.io/badge/React-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
-<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
 <img alt = "PHP"        src = "https://img.shields.io/badge/PHP-777BB4?=flat-square&logo=php&logoColor=white" height="" width=""/>
 <img alt = "Lar"        src = "https://img.shields.io/badge/Laravel-FF2D20?=flat-square&logo=laravel&logoColor=white" height="" width=""/>
 </p>
@@ -41,7 +40,7 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "Postgres" src = "https://img.shields.io/badge/PostgreSQL-316192?=flat-square&logo=postgresql&logoColor=white" height="" width=""/>
 <img alt = "SQlite"   src = "https://img.shields.io/badge/SQLite-07405E?=flat-square&logo=sqlite&logoColor=white" height="" width=""/>
 </p>
-<h4>:zap:IDE</h4>
+<h4>👨‍💻IDE</h4>
 <p>
 <img alt = "AS"       src = "https://img.shields.io/badge/Android_Studio-3DDC84?=flat-square&logo=android-studio&logoColor=white" height="" width=""/>
 <img alt = "Eclipse"  src = "https://img.shields.io/badge/Eclipse-2C2255?=flat-square&logo=eclipse&logoColor=white" height="" width=""/>
@@ -53,7 +52,16 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "Pycharm"  src = "https://img.shields.io/badge/sublime_text-%23575757.svg?=flat-square&logo=sublime-text&logoColor=important" height="" width=""/>
 <img alt = "Pycharm"  src = "https://img.shields.io/badge/Visual_Studio-5C2D91?=flat-square&logo=visual%20studio&logoColor=white" height="" width=""/>
 <img alt = "Pycharm"  src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?=flat-square&logo=visual%20studio%20code&logoColor=white" height="" width=""/>
-<img alt = "Pycharm"  src = "https://img.shields.io/badge/PyCharm-000000.svg?=flat-square&logo=PyCharm&logoColor=white" height="" width=""/>
+<img alt = "Pycharm"  src = "https://img.shields.io/badge/WebStorm-000000?=flat-square&logo=WebStorm&logoColor=white" height="" width=""/>
+</p>
+<h4>:iphone:Mobile Frameworks</h4>
+<p>
+<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
+<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
+<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
+<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
+<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
+<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
 </p>
 
 <h3>Open source projects</h3>
