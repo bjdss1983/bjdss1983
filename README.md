@@ -33,6 +33,16 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <p>
 <img alt = "Jests"      src = "https://img.shields.io/badge/Jest-323330?=flat-square&logo=Jest&logoColor=white" height="" width=""/>
 </p>
+<h4>:bar_chart:Analytics</h4>
+<p>
+<img alt = "Analytics"  src = "https://img.shields.io/badge/Google%20Analytics-E37400?=flat-square&logo=google%20analytics&logoColor=white" height="" width=""/>
+<img alt = "Tableau"    src = "https://img.shields.io/badge/Tableau-E97627?=flat-square&logo=Tableau&logoColor=white" height="" width=""/>
+</p>
+<h4>:bar_chart:Artificial Intelligence</h4>
+<p>
+<img alt = "Dialogflow" src = "https://img.shields.io/badge/dialogflow-FF9800?=flat-square&logo=dialogflow&logoColor=white" height="" width=""/>
+<img alt = "TF"         src = "https://img.shields.io/badge/TensorFlow-FF6F00?=flat-square&logo=tensorflow&logoColor=white" height="" width=""/>
+</p>
 <h4>:cloud:Cloud</h4>
 <p>
 <img alt = "AWS"      src = "https://img.shields.io/badge/Amazon_AWS-FF9900?=flat-square&logo=amazonaws&logoColor=white" height="" width=""/>
@@ -94,7 +104,8 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 
 <h3>Where to find me</h3>
 <p>
-<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&=flat-square&logo=Github&logoColor=white" height="" width=""/></a>
-<a href="https://twitter.com/brunosslvr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?=flat-square&logo=twitter&logoColor=white"  height="" width=""/></a>
+<a href="https://github.com/brunosslvr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&=flat-square&logo=Github&logoColor=white" height="" width=""/></a>
 <a href="https://www.linkedin.com/in/brunosslvr" target="_blank"><img alt="LinkedIn" src = "https://img.shields.io/badge/LinkedIn-0077B5?=flat-square&logo=linkedin&logoColor=white" height="" width=""/></a>
+<a href="https://twitter.com/brunosslvr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?=flat-square&logo=twitter&logoColor=white"  height="" width=""/></a>
+<a href="https://www.discord.com/brunosslvr" target="_blank"><img alt="Discord" src = "https://img.shields.io/badge/Discord-7289DA?=flat-square&logo=discord&logoColor=white" height="" width=""/></a>
 </p>
