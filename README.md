@@ -7,11 +7,13 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <p>
 <img alt = "HTML5"      src = "https://img.shields.io/badge/HTML5-E34F26?=flat-square&logo=html5&logoColor=white" height="" width=""/>
 <img alt = "CSS3"       src = "https://img.shields.io/badge/CSS3-1572B6?=flat-square&logo=css3&logoColor=white" height="" width=""/>
+<img alt = "Tailwind"   src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?=flat-square&logo=tailwind-css&logoColor=white" height="" width=""/>
 <img alt = "Sass"       src = "https://img.shields.io/badge/Sass-CC6699?=flat-square&logo=sass&logoColor=white" height="" width=""/>
 <img alt = "JS"         src = "https://img.shields.io/badge/JavaScript-F7DF1E?=flat-square&logo=javascript&logoColor=black" height="" width=""/>
 <img alt = "jQuery"     src = "https://img.shields.io/badge/jQuery-0769AD?=flat-square&logo=jquery&logoColor=white" height="" width=""/>
 <img alt = "Bootstrap"  src = "https://img.shields.io/badge/Bootstrap-563D7C?=flat-square&logo=bootstrap&logoColor=white" height="" width=""/>
 <img alt = "NodeJS"     src = "https://img.shields.io/badge/Node.js-43853D?=flat-square&logo=node.js&logoColor=white" height="" width=""/>
+<img alt = "ExpressJS"  src = "https://img.shields.io/badge/Express.js-404D59?" height="" width=""/>
 <img alt = "VueJS"      src = "https://img.shields.io/badge/Vue.js-35495E?=flat-square&logo=vue.js&logoColor=4FC08D" height="" width=""/>
 <img alt = "TS"         src = "https://img.shields.io/badge/TypeScript-007ACC?=flat-square&logo=typescript&logoColor=white" height="" width=""/>
 <img alt = "ReactJS"    src = "https://img.shields.io/badge/React-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
