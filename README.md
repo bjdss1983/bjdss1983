@@ -56,12 +56,19 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 </p>
 <h4>:iphone:Mobile Frameworks</h4>
 <p>
+<img alt = "Cordova"    src = "https://img.shields.io/badge/Cordova-35434F?=flat-square&logo=apache-cordova&logoColor=E8E8E8" height="" width=""/>
+<img alt = "Flutter"    src = "https://img.shields.io/badge/Flutter-02569B?=flat-square&logo=flutter&logoColor=white" height="" width=""/>
+<img alt = "Ionic"      src = "https://img.shields.io/badge/Ionic-3880FF?=flat-square&logo=ionic&logoColor=white" height="" width=""/>
+<img alt = "NS"         src = "https://img.shields.io/badge/NativeScript-3655FF?=flat-square&logo=NativeScript&logoColor=black" height="" width=""/>
 <img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
-<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
-<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
-<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
-<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
-<img alt = "ReactJn"    src = "https://img.shields.io/badge/React_Native-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
+<img alt = "Xamarin"    src = "https://img.shields.io/badge/Xamarin-3498DB?=flat-square&logo=xamarin&logoColor=white" height="" width=""/>
+</p>
+<h4>:computer:Terminal</h4>
+<p>
+<img alt = "Git"        src = "https://img.shields.io/badge/GIT-E44C30?=flat-square&logo=git&logoColor=white" height="" width=""/>
+<img alt = "Gnu Bash"   src = "https://img.shields.io/badge/GNU%20Bash-4EAA25?=flat-square&logo=GNU%20Bash&logoColor=white)" height="" width=""/>
+<img alt = "PowerShell" src = "https://img.shields.io/badge/powershell-5391FE?=flat-square&logo=powershell&logoColor=white" height="" width=""/>
+<img alt = "WT"         src = "https://img.shields.io/badge/windows%20terminal-4D4D4D?=flat-square&logo=windows%20terminal&logoColor=white" height="" width=""/>
 </p>
 
 <h3>Open source projects</h3>
