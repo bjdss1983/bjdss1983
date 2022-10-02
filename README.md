@@ -23,7 +23,7 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 </p>
 <h4>:bell:Tests</h4>
 <p>
-<img alt = "AWS"      src = "https://img.shields.io/badge/Amazon_AWS-FF9900?=flat-square&logo=amazonaws&logoColor=white" height="" width=""/>
+<img alt = "Jests"      src = "https://img.shields.io/badge/Jest-323330?=flat-square&logo=Jest&logoColor=white" height="" width=""/>
 </p>
 <h4>:cloud:Cloud</h4>
 <p>
@@ -33,7 +33,12 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 </p>
 <h4>:zap:Database</h4>
 <p>
-<img alt = "HTML5"      src = "https://img.shields.io/badge/HTML5-E34F26?=flat-square&logo=html5&logoColor=white" height="" width=""/>
+<img alt = "SQL"      src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?=flat-square&logo=microsoft%20sql%20server&logoColor=white" height="" width=""/>
+<img alt = "MySQL"    src = "https://img.shields.io/badge/MySQL-005C84?=flat-square&logo=mysql&logoColor=white" height="" width=""/>
+<img alt = "Oracle"   src = "https://img.shields.io/badge/Oracle-F80000?=flat-square&logo=oracle&logoColor=black" height="" width=""/>
+<img alt = "Oracle"   src = "https://img.shields.io/badge/Oracle-F80000?=flat-square&logo=oracle&logoColor=black" height="" width=""/>
+<img alt = "Oracle"   src = "https://img.shields.io/badge/Oracle-F80000?=flat-square&logo=oracle&logoColor=black" height="" width=""/>
+<img alt = "Oracle"   src = "https://img.shields.io/badge/Oracle-F80000?=flat-square&logo=oracle&logoColor=black" height="" width=""/>
 </p>
 
 <h3>Open source projects</h3>
