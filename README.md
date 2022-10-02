@@ -19,6 +19,15 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "ReactJS"    src = "https://img.shields.io/badge/React-20232A?=flat-square&logo=react&logoColor=61DAFB" height="" width=""/>
 <img alt = "PHP"        src = "https://img.shields.io/badge/PHP-777BB4?=flat-square&logo=php&logoColor=white" height="" width=""/>
 <img alt = "Lar"        src = "https://img.shields.io/badge/Laravel-FF2D20?=flat-square&logo=laravel&logoColor=white" height="" width=""/>
+<img alt = "Python"     src = "https://img.shields.io/badge/Python-14354C?=flat-square&logo=python&logoColor=white" height="" width=""/>
+<img alt = "Django"     src = "https://img.shields.io/badge/Django-092E20?=flat-square&logo=django&logoColor=white" height="" width=""/>
+<img alt = "Java"       src = "https://img.shields.io/badge/Java-ED8B00?=flat-square&logo=java&logoColor=white" height="" width=""/>
+<img alt = "Spring"     src = "https://img.shields.io/badge/Spring-6DB33F?=flat-square&logo=spring&logoColor=white" height="" width=""/>
+<img alt = "Kotlin"     src = "https://img.shields.io/badge/Kotlin-0095D5?=flat-square&logo=kotlin&logoColor=white" height="" width=""/>
+<img alt = "Django"     src = "https://img.shields.io/badge/Python-3776AB?=flat-square&logo=python&logoColor=white" height="" width=""/>
+<img alt = "Django"     src = "https://img.shields.io/badge/Python-3776AB?=flat-square&logo=python&logoColor=white" height="" width=""/>
+<img alt = "Django"     src = "https://img.shields.io/badge/Python-3776AB?=flat-square&logo=python&logoColor=white" height="" width=""/>
+
 </p>
 <h4>:bell:Tests</h4>
 <p>
@@ -69,6 +78,12 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "Gnu Bash"   src = "https://img.shields.io/badge/GNU%20Bash-4EAA25?=flat-square&logo=GNU%20Bash&logoColor=white)" height="" width=""/>
 <img alt = "PowerShell" src = "https://img.shields.io/badge/powershell-5391FE?=flat-square&logo=powershell&logoColor=white" height="" width=""/>
 <img alt = "WT"         src = "https://img.shields.io/badge/windows%20terminal-4D4D4D?=flat-square&logo=windows%20terminal&logoColor=white" height="" width=""/>
+</p>
+<h4>:computer:OS</h4>
+<p>
+<img alt = "Windows"    src = "https://img.shields.io/badge/Windows-0078D6?=flat-square&logo=windows&logoColor=white" height="" width=""/>
+<img alt = "Linux"      src = "https://img.shields.io/badge/Linux-FCC624?=flat-square&logo=linux&logoColor=black" height="" width=""/>
+<img alt = "Ubuntu"     src = "https://img.shields.io/badge/Ubuntu-E95420?=flat-square&logo=ubuntu&logoColor=white" height="" width=""/>
 </p>
 
 <h3>Open source projects</h3>
