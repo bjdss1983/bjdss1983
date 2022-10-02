@@ -36,9 +36,24 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "SQL"      src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?=flat-square&logo=microsoft%20sql%20server&logoColor=white" height="" width=""/>
 <img alt = "MySQL"    src = "https://img.shields.io/badge/MySQL-005C84?=flat-square&logo=mysql&logoColor=white" height="" width=""/>
 <img alt = "Oracle"   src = "https://img.shields.io/badge/Oracle-F80000?=flat-square&logo=oracle&logoColor=black" height="" width=""/>
-<img alt = "Oracle"   src = "https://img.shields.io/badge/Oracle-F80000?=flat-square&logo=oracle&logoColor=black" height="" width=""/>
-<img alt = "Oracle"   src = "https://img.shields.io/badge/Oracle-F80000?=flat-square&logo=oracle&logoColor=black" height="" width=""/>
-<img alt = "Oracle"   src = "https://img.shields.io/badge/Oracle-F80000?=flat-square&logo=oracle&logoColor=black" height="" width=""/>
+<img alt = "MariaDB"  src = "https://img.shields.io/badge/MariaDB-003545?=flat-square&logo=mariadb&logoColor=white" height="" width=""/>
+<img alt = "MongoDB"  src = "https://img.shields.io/badge/MongoDB-4EA94B?=flat-square&logo=mongodb&logoColor=white" height="" width=""/>
+<img alt = "Postgres" src = "https://img.shields.io/badge/PostgreSQL-316192?=flat-square&logo=postgresql&logoColor=white" height="" width=""/>
+<img alt = "SQlite"   src = "https://img.shields.io/badge/SQLite-07405E?=flat-square&logo=sqlite&logoColor=white" height="" width=""/>
+</p>
+<h4>:zap:IDE</h4>
+<p>
+<img alt = "AS"       src = "https://img.shields.io/badge/Android_Studio-3DDC84?=flat-square&logo=android-studio&logoColor=white" height="" width=""/>
+<img alt = "Eclipse"  src = "https://img.shields.io/badge/Eclipse-2C2255?=flat-square&logo=eclipse&logoColor=white" height="" width=""/>
+<img alt = "Idea"     src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?=flat-square&logo=intellij-idea&logoColor=white" height="" width=""/>
+<img alt = "Notepad"  src = "https://img.shields.io/badge/Notepad++-90E59A.svg?=flat-square&logo=notepad%2B%2B&logoColor=black" height="" width=""/>
+<img alt = "PHPStorm" src = "http://img.shields.io/badge/-PHPStorm-181717?=flat-square&logo=phpstorm&logoColor=white" height="" width=""/>
+<img alt = "Pycharm"  src = "https://img.shields.io/badge/PyCharm-000000.svg?=flat-square&logo=PyCharm&logoColor=white" height="" width=""/>
+<img alt = "Pycharm"  src = "https://img.shields.io/badge/replit-667881?=flat-square&logo=replit&logoColor=white" height="" width=""/>
+<img alt = "Pycharm"  src = "https://img.shields.io/badge/sublime_text-%23575757.svg?=flat-square&logo=sublime-text&logoColor=important" height="" width=""/>
+<img alt = "Pycharm"  src = "https://img.shields.io/badge/Visual_Studio-5C2D91?=flat-square&logo=visual%20studio&logoColor=white" height="" width=""/>
+<img alt = "Pycharm"  src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?=flat-square&logo=visual%20studio%20code&logoColor=white" height="" width=""/>
+<img alt = "Pycharm"  src = "https://img.shields.io/badge/PyCharm-000000.svg?=flat-square&logo=PyCharm&logoColor=white" height="" width=""/>
 </p>
 
 <h3>Open source projects</h3>
