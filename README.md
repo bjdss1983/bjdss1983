@@ -59,6 +59,13 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "Postgres" src = "https://img.shields.io/badge/PostgreSQL-316192?=flat-square&logo=postgresql&logoColor=white" height="" width=""/>
 <img alt = "SQlite"   src = "https://img.shields.io/badge/SQLite-07405E?=flat-square&logo=sqlite&logoColor=white" height="" width=""/>
 </p>
+<h4>🖍 User Experience Design</h4>
+<p>
+<img alt = "AdobeXd"  src = "https://img.shields.io/badge/Adobe%20XD-470137?=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" height="" width=""/>
+<img alt = "Canva"    src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?=flat-square&logo=Canva&logoColor=white" height="" width=""/>
+<img alt = "Figma"    src = "https://img.shields.io/badge/Figma-F24E1E?=flat-square&logo=figma&logoColor=white" height="" width=""/>
+<img alt = "InVision"  src = "https://img.shields.io/badge/InVision-FF3366?=flat-square&logo=InVision&logoColor=white" height="" width=""/>
+</p>
 <h4>👨‍💻 IDE</h4>
 <p>
 <img alt = "AS"       src = "https://img.shields.io/badge/Android_Studio-3DDC84?=flat-square&logo=android-studio&logoColor=white" height="" width=""/>
@@ -95,6 +102,11 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "Linux"      src = "https://img.shields.io/badge/Linux-FCC624?=flat-square&logo=linux&logoColor=black" height="" width=""/>
 <img alt = "Ubuntu"     src = "https://img.shields.io/badge/Ubuntu-E95420?=flat-square&logo=ubuntu&logoColor=white" height="" width=""/>
 </p>
+<h4>:computer: Productivity</h4>
+<p>
+<img alt = "Notion"     src = "https://img.shields.io/badge/Notion-000000?=flat-square&logo=notion&logoColor=white" height="" width=""/>
+<img alt = "Trello"     src = "https://img.shields.io/badge/Trello-0052CC?=flat-square&logo=trello&logoColor=white" height="" width=""/>
+</p>
 
 <h3>Open source projects</h3>
 
@@ -110,9 +122,35 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/>         </td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/>         </td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/>       </td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 </table>
 
 <h3>My latest posts</h3>
+<ul>
+  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"></li>
+  <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a>
+  <br />
+  <i>Build a Blockchain-powered chat from your browser!.</i>
+</ul>
 
 <h3>Welcome to the wonderful city <img src="https://user-images.githubusercontent.com/114622658/193428197-6afa5891-87b5-419b-9640-2cc382861685.png" width="14"/> Rio de Janeiro!</h3>
 
