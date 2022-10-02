@@ -31,7 +31,7 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <img alt = "Azure"    src = "https://img.shields.io/badge/microsoft%20azure-0089D6?=flat-square&logo=microsoft-azure&logoColor=white" height="" width=""/>
 <img alt = "Google"   src = "https://img.shields.io/badge/Google_Cloud-4285F4?=flat-square&logo=google-cloud&logoColor=white" height="" width=""/>
 </p>
-<h4>⚡Database</h4>
+<h4>:zap:Database</h4>
 <p>
 <img alt = "HTML5"      src = "https://img.shields.io/badge/HTML5-E34F26?=flat-square&logo=html5&logoColor=white" height="" width=""/>
 </p>
