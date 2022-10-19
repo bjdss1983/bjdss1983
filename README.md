@@ -167,5 +167,5 @@ Welcome to my page! </br> I'm Bruno, Software engineer, currently living in <img
 <a href="https://github.com/brunosslvr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&=flat-square&logo=Github&logoColor=white" height="" width=""/></a>
 <a href="https://www.linkedin.com/in/brunosslvr" target="_blank"><img alt="LinkedIn" src = "https://img.shields.io/badge/LinkedIn-0077B5?=flat-square&logo=linkedin&logoColor=white" height="" width=""/></a>
 <a href="https://twitter.com/brunosslvr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?=flat-square&logo=twitter&logoColor=white"  height="" width=""/></a>
-<a href="https://www.discord.com/brunosslvr" target="_blank"><img alt="Discord" src = "https://img.shields.io/badge/Discord-7289DA?=flat-square&logo=discord&logoColor=white" height="" width=""/></a>
+<a href="https://www.discord.com/brunosslvr#6988" target="_blank"><img alt="Discord" src = "https://img.shields.io/badge/Discord-7289DA?=flat-square&logo=discord&logoColor=white" height="" width=""/></a>
 </p>
