@@ -160,7 +160,7 @@ Welcome to my page! </br> I'm Bruno, Fullstack developer from, currently living 
   <i>Begin with solid foundations to keep the excitement kicking in...</i></li>
 </ul>
 
-<h3>Welcome to city the wonderful <img src="https://user-images.githubusercontent.com/114622658/193428197-6afa5891-87b5-419b-9640-2cc382861685.png" width="14"/>  Rio de Janeiro!</h3>
+<h3>Welcome to city wonderful <img src="https://user-images.githubusercontent.com/114622658/193428197-6afa5891-87b5-419b-9640-2cc382861685.png" width="14"/>  Rio de Janeiro!</h3>
 
 <h3>Where to find me</h3>
 <p>
